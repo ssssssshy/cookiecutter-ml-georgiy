@@ -1,0 +1,1 @@
+{'project_name': 'ML Project', 'project_slug': 'ml_project', 'author_name': 'Георгий', 'description': 'ML проект с FastAPI и интерпретацией', 'use_fastapi': 'y', 'use_shap': 'y'}
